@@ -13,9 +13,9 @@ Keras에 관한 정보를 정리한 글입니다.
 
 ```python
 def step_decay(epoch):
-	initial_lr = 0.1
-	drop = 0.5
-	epochs_drop = 10.0
-	lr = initial_lr * math.pow(drop, math.floor((1+epoch)/epochs_drop))
-	return lr
+    initial_lr = 0.1
+    drop = 0.5
+    epochs_drop = 10.0
+    lr = initial_lr * math.pow(drop, math.floor((1+epoch)/epochs_drop))
+    return lr
 ```

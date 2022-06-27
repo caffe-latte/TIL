@@ -1,0 +1,21 @@
+# Keras
+Keras에 관한 정보를 정리한 글입니다.
+
+## [2022.06.27] Useful Tips for Keras Programming
+
+#### Deep Learning, 2016.
+> - The learning rate is perhaps the most important hyperparameter.  If you have time to tune only one hyperparameter, tune the learning rate.
+> - In practice, it is necessary to gradually decrease the learning rate over time, ..
+
+딥러닝 모델을 구현하는 과정에서 SGD (Stochastic Gradient Descent) Optimizer를 사용할 경우,  Learning Rate를 동적으로 변경시키면 성능을 향상시키며 학습시간을 줄일 수 있다.
+
+다양한 종류가 있지만, 일반적으로 사용되는 Learning Rate Schedule 기법은 Step Decay 이다. [[링크]](https://machinelearningmastery.com/using-learning-rate-schedules-deep-learning-models-python-keras/)
+
+```python
+def step_decay(epoch):
+	initial_lr = 0.1
+	drop = 0.5
+	epochs_drop = 10.0
+	lr = initial_lr * math.pow(drop, math.floor((1+epoch)/epochs_drop))
+	return lr
+```

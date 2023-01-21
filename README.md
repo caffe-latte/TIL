@@ -10,3 +10,4 @@
 Keras에 관한 정보를 정리한 글입니다.
 
 1. [[2022.06.27] Learning Rate Scheduler](https://github.com/caffe-latte/TIL/blob/main/Keras/20220627.md)
+2. [[2023.01.21] Google Colab에서 PyTorch사용하는 법](https://github.com/caffe-latte/TIL/blob/main/PyTorch/20230121.md)

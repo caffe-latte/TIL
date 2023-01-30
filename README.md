@@ -3,6 +3,7 @@
 ## Python
 1. [[2023.01.20] Command창에서 변수를 읽어오는 법](https://github.com/caffe-latte/TIL/blob/main/Python/20230120.md)
 2. [[2023.01.21] 문자열 Snippets (1)](https://github.com/caffe-latte/TIL/blob/main/Python/20230121.md)
+3. [[2023.01.30] Generator 활용: Lazy Iterator](https://github.com/caffe-latte/TIL/blob/main/Python/20230130.md)
 
 ## ML/DL (Paper Review)
 

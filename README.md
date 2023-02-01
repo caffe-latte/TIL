@@ -2,8 +2,8 @@
 
 ## Python
 1. [[2023.01.20] Command창에서 변수를 읽어오는 법](https://github.com/caffe-latte/TIL/blob/main/Python/20230120.md)
-2. [[2023.01.21] 문자열 Snippets (1)](https://github.com/caffe-latte/TIL/blob/main/Python/20230121.md)
-3. [[2023.01.30] Generator 활용: Lazy Iterator](https://github.com/caffe-latte/TIL/blob/main/Python/20230130.md)
+2. [[2023.01.30] Generator 활용: Lazy Iterator](https://github.com/caffe-latte/TIL/blob/main/Python/20230130.md)
+3. [[2023.01.21] 문자열 Snippets (1)](https://github.com/caffe-latte/TIL/blob/main/Python/20230121.md)
 4. [[2023.01.31] 문자열 Snippets (2)](https://github.com/caffe-latte/TIL/blob/main/Python/20230131.md)
 5. [[2023.02.01] 문자열 Snippets (3)](https://github.com/caffe-latte/TIL/blob/main/Python/20230201.md)
 

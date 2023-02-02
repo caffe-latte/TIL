@@ -6,6 +6,7 @@
 3. [[2023.01.21] 문자열 Snippets (1)](https://github.com/caffe-latte/TIL/blob/main/Python/20230121.md)
 4. [[2023.01.31] 문자열 Snippets (2)](https://github.com/caffe-latte/TIL/blob/main/Python/20230131.md)
 5. [[2023.02.01] 문자열 Snippets (3)](https://github.com/caffe-latte/TIL/blob/main/Python/20230201.md)
+6. [[2023.02.02] 선형 자료구조 (1)](https://github.com/caffe-latte/TIL/blob/main/Python/20230202.md)
 
 ## ML/DL (Paper Review)
 

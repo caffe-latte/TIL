@@ -16,3 +16,4 @@
 2. [[2023.01.21] PyTorch - Google Colab에서 사용하는 법](https://github.com/caffe-latte/TIL/blob/main/PyTorch/20230121.md)
 3. [[2023.01.30] PyTorch - 기초 문법 (1)](https://github.com/caffe-latte/TIL/blob/main/PyTorch/20230130.md)
 4. [[2023.01.31] PyTorch - 기초 문법 (2)](https://github.com/caffe-latte/TIL/blob/main/PyTorch/20230131.md)
+5. [[2023.02.02] PyTorch - GPU 사용](https://github.com/caffe-latte/TIL/blob/main/PyTorch/20230202.md)

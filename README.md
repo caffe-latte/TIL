@@ -9,7 +9,7 @@
 6. [[2023.02.02] 선형 자료구조 (1) - 덧셈하여 목표값 구하기](https://github.com/caffe-latte/TIL/blob/main/Python/20230202.md)
 7. [[2023.02.13] 선형 자료구조 (2) - 더해서 0이 되는 배열 3요](https://github.com/caffe-latte/TIL/blob/main/Python/20230213.md)
 8. [[2023.02.14] 선형 자료구조 (3) - 배열 파티션-1, Leave-One-Out 배열의 곱](https://github.com/caffe-latte/TIL/blob/main/Python/20230214.md)
-9. [[2023.02.15] 선형 자료구조 (4) - Maximum Profit, Palindrome using Linked List](https://github.com/caffe-latte/TIL/blob/main/Python/20230214.md)
+9. [[2023.02.15] 선형 자료구조 (4) - Maximum Profit, Palindrome using Linked List](https://github.com/caffe-latte/TIL/blob/main/Python/20230215.md)
 
 ## ML/DL (Paper Review)
 

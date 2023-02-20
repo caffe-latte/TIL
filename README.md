@@ -14,6 +14,7 @@
 11. [[2023.02.17] 선형 자료구조 (6) - Linked List 역순 저장, 역순 Linked List 더하기](https://github.com/caffe-latte/TIL/blob/main/Python/20230217.md)
 12. [[2023.02.18] 선형 자료구조 (7) - Linked List Pair Swap](https://github.com/caffe-latte/TIL/blob/main/Python/20230218.md)
 13. [[2023.02.19] 선형 자료구조 (8) - 연결 리스트 Odd→Even Index 재구성, 역순 Linked ListⅡ](https://github.com/caffe-latte/TIL/blob/main/Python/20230219.md)
+14. [[2023.02.20] 선형 자료구조 (9) - 유효한 괄호, 중복 문자 제거, 일일 온도](https://github.com/caffe-latte/TIL/blob/main/Python/20230220.md)
 
 ## ML/DL (Paper Review)
 

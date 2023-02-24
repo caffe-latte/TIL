@@ -19,8 +19,6 @@
 16. [[2023.02.22] 선형 자료구조 (11) - 원형 Deque, k개 정렬 리스트 병합 (우선순위 Queue)](https://github.com/caffe-latte/TIL/blob/main/Python/20230222.md)
 17. [[2023.02.23] 선형 자료구조 (12) - Hash Map Design, Jewels in Stones](https://github.com/caffe-latte/TIL/blob/main/Python/20230223.md)
 
-## ML/DL (Paper Review)
-
 ## ML/DL (Code)
 
 1. [[2022.06.27] Keras - Learning Rate Scheduler](https://github.com/caffe-latte/TIL/blob/main/Keras/20220627.md)

@@ -27,7 +27,8 @@
 24. [[2023.03.04] 비선형 자료구조 (5) - 네트워크 딜레이타임](https://github.com/caffe-latte/TIL/blob/main/Python/20230304.md)
 25. [[2023.03.05] 비선형 자료구조 (6) - K 경유지 내 가장 저렴한 항공권](https://github.com/caffe-latte/TIL/blob/main/Python/20230305.md)
 26. [[2023.03.06] 비선형 자료구조 (7) - 이진 트리의 최대 깊이, 직경](https://github.com/caffe-latte/TIL/blob/main/Python/20230306.md)
-26. [[2023.03.07] 비선형 자료구조 (8) - 트리 경로, 이진 트리 반전](https://github.com/caffe-latte/TIL/blob/main/Python/20230307.md)
+27. [[2023.03.07] 비선형 자료구조 (8) - 트리 경로, 이진 트리 반전](https://github.com/caffe-latte/TIL/blob/main/Python/20230307.md)
+28. [[2023.03.08] 비선형 자료구조 (9) - 이진 트리 병합, 직렬화 & 역직렬화](https://github.com/caffe-latte/TIL/blob/main/Python/20230308.md)
 
 ## ML/DL (Code)
 

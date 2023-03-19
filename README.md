@@ -31,6 +31,7 @@
 28. [[2023.03.08] 비선형 자료구조 (9) - 이진 트리 병합, 직렬화 & 역직렬화](https://github.com/caffe-latte/TIL/blob/main/Python/20230308.md)
 29. [[2023.03.09] 비선형 자료구조 (10) - 균형 이진 트리](https://github.com/caffe-latte/TIL/blob/main/Python/20230309.md)
 30. [[2023.03.18] 비선형 자료구조 (11) - 정렬된 배열의 이진 탐색 트리 변환, 합계 트리](https://github.com/caffe-latte/TIL/blob/main/Python/20230318.md)
+31. [[2023.03.19] 비선형 자료구조 (12) - BST 합](https://github.com/caffe-latte/TIL/blob/main/Python/20230319.md)
 
 ## ML/DL (Code)
 

@@ -33,9 +33,9 @@
 30. [[2023.03.18] 비선형 자료구조 (11) - 정렬된 배열의 이진 탐색 트리 변환, 합계 트리](https://github.com/caffe-latte/TIL/blob/main/Python/20230318.md)
 31. [[2023.03.19] 비선형 자료구조 (12) - BST 합](https://github.com/caffe-latte/TIL/blob/main/Python/20230319.md)
 32. [[2023.03.23] Useful Code Snippets (1) - 소수 판별, 정렬, 약수 구하기](https://github.com/caffe-latte/TIL/blob/main/Python/20230323.md)
+33. [[2023.03.25] Useful Code Snippets (2) - 진법 변환, 이진 탐색](https://github.com/caffe-latte/TIL/blob/main/Python/20230325.md)
 
 ## ML/DL (Code)
-
 1. [[2022.06.27] Keras - Learning Rate Scheduler](https://github.com/caffe-latte/TIL/blob/main/Keras/20220627.md)
 2. [[2023.01.21] PyTorch - Google Colab에서 사용하는 법](https://github.com/caffe-latte/TIL/blob/main/PyTorch/20230121.md)
 3. [[2023.01.30] PyTorch - 기초 문법 (1)](https://github.com/caffe-latte/TIL/blob/main/PyTorch/20230130.md)

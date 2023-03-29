@@ -35,6 +35,7 @@
 32. [[2023.03.23] Useful Code Snippets (1) - 소수 판별, 정렬, 약수 구하기](https://github.com/caffe-latte/TIL/blob/main/Python/20230323.md)
 33. [[2023.03.25] Useful Code Snippets (2) - 진법 변환, 이진 탐색](https://github.com/caffe-latte/TIL/blob/main/Python/20230325.md)
 34. [[2023.03.28] 비선형 자료구조 (13) - Heap 기반 배열의 K번째 큰 요소 추출](https://github.com/caffe-latte/TIL/blob/main/Python/20230328.md)
+35. [[2023.03.29] 비선형 자료구조 (14) - Trie, Palindrome Pair](https://github.com/caffe-latte/TIL/blob/main/Python/20230329.md)
 
 ## ML/DL (Code)
 1. [[2022.06.27] Keras - Learning Rate Scheduler](https://github.com/caffe-latte/TIL/blob/main/Keras/20220627.md)

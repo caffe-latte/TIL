@@ -37,6 +37,7 @@
 34. [[2023.03.28] 비선형 자료구조 (13) - Heap 기반 배열의 K번째 큰 요소 추출](https://github.com/caffe-latte/TIL/blob/main/Python/20230328.md)
 35. [[2023.03.29] 비선형 자료구조 (14) - Trie, Palindrome Pair](https://github.com/caffe-latte/TIL/blob/main/Python/20230329.md)
 36. [[2023.03.30] 알고리즘 (1) - 연결 리스트 변환, 구간 병합](https://github.com/caffe-latte/TIL/blob/main/Python/20230330.md)
+37. [[2023.03.31] 알고리즘 (2) - 연결 리스트 삽입 정렬, 가장 큰 수 출력](https://github.com/caffe-latte/TIL/blob/main/Python/20230331.md)
 
 ## ML/DL (Code)
 1. [[2022.06.27] Keras - Learning Rate Scheduler](https://github.com/caffe-latte/TIL/blob/main/Keras/20220627.md)

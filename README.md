@@ -39,6 +39,7 @@
 36. [[2023.03.30] 알고리즘 (1) - 연결 리스트 변환, 구간 병합](https://github.com/caffe-latte/TIL/blob/main/Python/20230330.md)
 37. [[2023.03.31] 알고리즘 (2) - 연결 리스트 삽입 정렬, 가장 큰 수 출력](https://github.com/caffe-latte/TIL/blob/main/Python/20230331.md)
 38. [[2023.04.01] 알고리즘 (3) - 원점에 K번째로 가까운 점, 이진 검색](https://github.com/caffe-latte/TIL/blob/main/Python/20230401.md)
+39. [[2023.04.02] 알고리즘 (4) - 회전 정렬된 배열 검색, 두 배열의 교집합](https://github.com/caffe-latte/TIL/blob/main/Python/20230402.md)
 
 ## ML/DL (Code)
 1. [[2022.06.27] Keras - Learning Rate Scheduler](https://github.com/caffe-latte/TIL/blob/main/Keras/20220627.md)
